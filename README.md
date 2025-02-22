@@ -1,3 +1,8 @@
+## 🎨 UI Design & Prototype  
+View my full UI design and prototype in Figma:  
+[Click Here]https://www.figma.com/proto/BwVSRviuSFdLUU9Ev4f3qe/Education-Platform?node-id=0-1&t=6n9t3HhSXzVBGcnX-1
+
+
 # Education-Platform
 The Education Platform app helps students and educators manage learning effectively by providing course management, notifications, and secure account access.
 
